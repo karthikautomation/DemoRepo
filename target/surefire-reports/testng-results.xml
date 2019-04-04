@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.gmail.qa.testcases.LoginpageTest" duration-ms="33177" started-at="2019-04-04T05:05:18Z" finished-at="2019-04-04T05:05:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33177" started-at="2019-04-04T05:05:18Z" finished-at="2019-04-04T05:05:51Z">
+      <class name="com.gmail.qa.testcases.LoginpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.gmail.qa.testcases.LoginpageTest@12fad11]" name="setup" is-config="true" duration-ms="18669" started-at="2019-04-04T10:35:18Z" finished-at="2019-04-04T10:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginpageTitletest()[pri:0, instance:com.gmail.qa.testcases.LoginpageTest@12fad11]" name="LoginpageTitletest" duration-ms="5" started-at="2019-04-04T10:35:37Z" finished-at="2019-04-04T10:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginpageTitletest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.gmail.qa.testcases.LoginpageTest@12fad11]" name="teardown" is-config="true" duration-ms="1233" started-at="2019-04-04T10:35:37Z" finished-at="2019-04-04T10:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.gmail.qa.testcases.LoginpageTest@12fad11]" name="setup" is-config="true" duration-ms="6020" started-at="2019-04-04T10:35:38Z" finished-at="2019-04-04T10:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Mailtest()[pri:0, instance:com.gmail.qa.testcases.LoginpageTest@12fad11]" name="Mailtest" duration-ms="6278" started-at="2019-04-04T10:35:44Z" finished-at="2019-04-04T10:35:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mailtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.gmail.qa.testcases.LoginpageTest@12fad11]" name="teardown" is-config="true" duration-ms="963" started-at="2019-04-04T10:35:50Z" finished-at="2019-04-04T10:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.gmail.qa.testcases.LoginpageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.gmail.qa.testcases.LoginpageTest -->
+</testng-results>
